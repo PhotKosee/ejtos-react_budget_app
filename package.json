@@ -1,7 +1,7 @@
 {
   "name": "budget-allocation",
   "version": "0.1.0",
-  "honepage": "https://PhotKosee.github.io/ejtos-react_budget_app",
+  "honepage": "https://PhotKosee.github.io/ejtos-react_budget_app/react-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
